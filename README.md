@@ -76,3 +76,6 @@ The Power BI dashboard includes the following insights:
 **Adithya S**  
 MCA Graduate | Aspiring Data Analyst | Power BI & Python Enthusiast  
 
+___
+## screenshot
+![](img.png)
